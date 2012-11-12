@@ -1,5 +1,5 @@
-# Open Data Technologies #
+# Tecnologias de Dados Abertos #
 
-There are a range of technologies that address different problems with creating, publishing and using open data. The aim of this project is to pull together information about these technologies, their advantages and disadvantages, to enable those who are performing these tasks to choose an appropriate technology.
+Existe uma variedade de tecnologias que resolvem diferente problemas como criar, publicar e utilizar dados abertos. O objetivo deste projeto é acumular informações sobre essas tecnologias, suas vantagens e disvantagens, para possibilitar àqueles que estão realizando essas tarefas possam escolher a tecnologia apropriada.
 
-We are using the [Wiki](/theodi/open-data-tech-review/wiki/Home) to collaboratively build a set of reviews of the technologies. Please join in!
+Nós estamos utilizando a [Wiki](/dadosgovbr/open-data-tech-review/wiki/Home) para construir colaborativamente um conjunto de análises das tecnologias. Junte-se por favor!
