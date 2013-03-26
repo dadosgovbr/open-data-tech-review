@@ -4,4 +4,4 @@ Existe uma variedade de tecnologias que resolvem diferentes problemas como criar
 
 Nós estamos utilizando a [Wiki](https://github.com/dadosgovbr/open-data-tech-review/wiki) para construir colaborativamente um conjunto de análises das tecnologias. Junte-se por favor!
 
-Todos esses documentos são uma tradução livre do [original em inglês](/theodi/open-data-tech-review).
+Todos esses documentos são uma tradução livre do [original em inglês](https://github.com/theodi/open-data-tech-review/wiki).
